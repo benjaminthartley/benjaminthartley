@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @benjaminthartley
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning DevSecOps
